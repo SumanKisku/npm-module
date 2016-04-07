@@ -1,0 +1,22 @@
+{
+  "name": "npm-module",
+  "version": "1.0.1",
+  "description": "add html boilerplate to you clipboard for pasting wins",
+  "keywords": ["HTML5", "boilerplate", "cli", "command line", "npm", "module"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/SumanKisku/npm-module.git"
+  },
+  "bugs": {
+    "url": "http://github.com/SumanKisku/npm-module/issues"
+  },
+  "main": "index.js",
+  "bin": {
+    "boilme": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suman Kisku",
+  "license": "BSD"
+}
